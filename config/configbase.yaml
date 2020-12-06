@@ -1,0 +1,8 @@
+# This is your configuration file for Qui Database. Do not change anything if you do not know what are you doing.
+
+# Pool configuration:
+id: gnUSgsfAS,
+    name: myPool,
+    capacity: ${C}
+    user: root
+    password: aidak1234

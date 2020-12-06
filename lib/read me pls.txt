@@ -1,0 +1,2 @@
+download myqui using:
+npm install myqui

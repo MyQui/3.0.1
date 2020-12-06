@@ -1,0 +1,4 @@
+why use mongo
+
+
+myqui is a self-db 
